@@ -3,7 +3,7 @@ dependencies:
   - pandas
   - scipy
   - pip
-  - sklearn
+  - scikit-learn
   - numpy
   - pip:
     - jupyter-server-proxy
